@@ -19,5 +19,4 @@ function f(){
 var result = f();
 ```
 
-
 [Go Home](https://github.com/davidamador/ "Home Jeeves!")
